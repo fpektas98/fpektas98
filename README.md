@@ -11,12 +11,30 @@ I graduated with a degree in **Turkish Language and Literature** from **Istanbul
 - 💻 Currently focusing on **JavaScript**, **React**, and **front-end development**.
 - 🚀 Passionate about learning new technologies and solving complex problems.
 
+---
+
 ## Skills & Tools
 
-- **Languages**: JavaScript, HTML, CSS
-- **Frameworks & Libraries**: React, Bootstrap
-- **Tools**: Git, GitHub, VS Code, NPM
-- **Currently Learning**: Webpack, Tailwind CSS
+### Languages
+- 🟩 **JavaScript**
+- 🔠 **HTML**
+- 🎨 **CSS**
+
+### Frameworks & Libraries
+- ⚛️ **React**
+- 💡 **Bootstrap**
+
+### Tools
+- 💻 **VS Code**
+- 🧑‍💻 **Git**
+- 🐙 **GitHub**
+- 📦 **NPM**
+
+### Currently Learning
+- 🧱 **Webpack**
+- 🌀 **Tailwind CSS**
+
+---
 
 ## Contact Me
 
